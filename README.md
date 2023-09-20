@@ -1,5 +1,5 @@
 # FlaskProject
-Practice with Flask
+Flask Practice Project
 
 ![Alt text](image-1.png)
 
